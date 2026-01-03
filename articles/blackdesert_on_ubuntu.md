@@ -1,12 +1,15 @@
 ---
 title: "Ubuntu + Lutris における日本版『黒い砂漠』環境構築ログ"
-author: "superOTK"
+author: "otk"
 date: 2026-01-02
-tags: [Ubuntu, Lutris, BlackDesert]
-published: false
+emoji: 🎮
+type: idea
+topics: ["ubuntu", "lutris"]
+published: true
 ---
 
 # Ubuntu + Lutris における日本版『黒い砂漠』環境構築ログ
+※AIの要約を (備忘録的に) そのまま記事にしました。
 
 ## 1. 概要
 * **目的**: Ubuntu (Linux) 上の Lutris を使用して、Steam版ではない「日本公式版（Pearl Abyss版）」の黒い砂漠を動作させる。
