@@ -3,6 +3,7 @@ title: "Ubuntu + Lutris における日本版『黒い砂漠』環境構築ロ�
 author: "superOTK"
 date: 2026-01-02
 tags: [Ubuntu, Lutris, BlackDesert]
+published: false
 ---
 
 # Ubuntu + Lutris における日本版『黒い砂漠』環境構築ログ
